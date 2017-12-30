@@ -1,2 +1,2 @@
 # Warbirds
-Warbirds – image viewer shows picture of each plane and presents information about it.
+Warbirds – An image viewer that allows the user to select an airplane that they would like to see and learn more about.
